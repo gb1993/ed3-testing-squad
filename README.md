@@ -1,3 +1,3 @@
-# ED# Testing Squad
+# ED3 Testing Squad
 
  Esse é um boilerplate para aprimorar as habilidades de testes unitários.
