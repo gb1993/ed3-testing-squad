@@ -48,6 +48,7 @@ Este comando iniciará o Vite, que é um bundler rápido para projetos React, e 
 ## Testes
 
 Este projeto utiliza o Jest como framework de testes e o RTL (React Testing Library) para testar componentes React.
+Os testes estão na pasta src/tests
 
 Para executar os testes, utilize o seguinte comando:
 
